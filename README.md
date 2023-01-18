@@ -1,2 +1,2 @@
-# Repository-Henry2
-Repositorio de prueba del modulo 2
+# Repository-Henry2 Para mostrar cómo crear un repositorio desde GitHub y copiarlo al escritorio local
+modulo 2
